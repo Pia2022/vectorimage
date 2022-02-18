@@ -1,0 +1,8 @@
+
+<svg width="480" height="480" fill="red" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="circle viewbox="40 40 800 800">
+        <circle cx="500" cy="500" r="100" stroke-width="0" fill="red" stroke="white"/>
+        <polyline points="450,450 550,550" stroke="white" storke-width="15" stroke-linecap="square"/>
+        <polyline points="550,450 450,550" stroke="white" stroke-width="15" stroke-linecap="square"/>
+    </symbol
+</svg>
